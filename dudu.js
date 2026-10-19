@@ -4,6 +4,8 @@ const cruelty = 67;
 const lovity = "SixSeven";
 const mogty = null;
 let num = 67;
+const isItFalsity = false;
+const isItLovity = true;
 
 console.log(typeof verity);
 console.log(typeof falsity);
@@ -22,3 +24,4 @@ num *= 67;
 console.log(num);
 num /= 67;
 console.log(num);
+console.log(`Is it Falsity??? ${isItFalsity}-noooo, stop, it is not falsity- Is it lovity??? ${isItLovity}-yeesss, It is lovity`)
